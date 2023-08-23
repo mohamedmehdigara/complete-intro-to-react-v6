@@ -1,4 +1,8 @@
 {
+  
+  "browserslist": [
+    "last 2 Chrome versions"
+  ],
   "name": "complete-intro-to-react-v6",
   "description": "come learn React with Brian Holt!",
   "version": "6.0.0",
@@ -57,4 +61,8 @@
     "eslint-plugin-react": "^7.28.0",
     "prettier": "^2.5.1"
   }
+
+  
+   
+  
 }
