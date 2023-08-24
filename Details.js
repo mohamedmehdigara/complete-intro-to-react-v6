@@ -1,6 +1,9 @@
 // replace Details.js
-import { Component } from "react";
+import { Component, lazy } from "react";
 import { withRouter } from "react-router-dom";
+
+const Modal = lazy(() => import("./Modal"));
+
 
 class Details extends Component {
   constructor() {
